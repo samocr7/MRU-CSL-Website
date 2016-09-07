@@ -1,0 +1,85 @@
+#banner{
+    content: url("https://scontent.xx.fbcdn.net/v/t1.0-9/12187928_10153277421688391_8697572591629369465_n.jpg?oh=f5c64a3b19eee1bc77484be47ca1650a&oe=57A6E756");
+    justify-content: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+body{
+    background-color:black;
+    text-align:center;
+}
+
+#hall{
+    color:yellow;
+    font-size:3.2em;
+}
+#hall a{
+    text-decoration:none;
+    color:yellow;
+}
+#main-nav h2{
+    color:white;
+    text-align: center;
+    font-size: 3em;
+    font-variant:small-caps;
+}
+#main-nav ul{
+    text-align: center;
+    list-style:none;
+    padding:10px;
+}
+ul li{
+    padding:10px;
+    
+}
+#debuggers a{
+    text-decoration: none;
+    color:green;
+    font-size:1.5em;
+}
+#brogrammers a{
+    text-decoration: none;
+    color:yellow;
+    font-size:1.5em;
+}
+#tse a{
+    text-decoration: none;
+    color:purple;
+    font-size:1.5em;
+}
+#tia a{
+    text-decoration: none;
+    color:red;
+    font-size:1.5em;
+}
+#tobe a{
+    text-decoration: none;;
+    color:mediumspringgreen;
+    font-size:1.5em;
+    
+}
+#helloworld a{
+    text-decoration: none;
+    color:orange;
+    font-size:1.5em;
+    
+}
+#clouddrive a{
+    text-decoration: none;
+    color:blue;
+    font-size:1.5em;
+    
+}
+#drunk a{
+    text-decoration: none;
+    color: steelblue;
+    font-size:1.5em;
+    
+}
+footer{
+    color:white;
+    margin-top:100px;
+    text-align:center;
+    font-size: 10px;
+}

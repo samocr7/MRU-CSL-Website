@@ -1,0 +1,66 @@
+body{
+    background-color: lightslategrey;
+}
+#table{
+    table-layout:auto;
+    width:100%;
+    border-collapse: collapse;
+}
+#links {
+    list-style:none;
+}
+#links li{
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+}
+#home a{
+    text-decoration: none;
+}
+#team a{
+    text-decoration: none;
+}
+
+.items{
+    display: inline-block;
+    height:130px !important;
+    
+}
+.items img{
+    max-height: 31.98px;
+    max-width: 31.98px;
+    position:relative;
+    top:58.005px;
+}
+.summs{
+    width:64px;
+}
+#row1{
+    border-bottom: 4px solid black;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+}
+#row2{
+    border-bottom: 4px solid black;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+}
+#row3{
+    border-bottom: 4px solid black;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+}
+#row4{
+    border-bottom: 4px solid black;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+}
+#row5{
+    border-bottom: 4px solid black;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+}
+#headers{
+    border-bottom: 4px solid black;
+     display: table-header-group;
+}
+
